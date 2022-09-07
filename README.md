@@ -4,13 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bitee-cd&label=Profile%20views&color=0e75b6&style=flat" alt="bitee-cd" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitee-cd" alt="bitee-cd" /></a> </p>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [calebduniya.netlify.app](calebduniya.netlify.app)
-
-- 💬 Ask me about **JavaScript and Python**
 
 - 📫 How to reach me **calebduniya45@gmail.com**
 
